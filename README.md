@@ -141,15 +141,6 @@ content-creator-pro/
 
 ---
 
-## 💰 定价
-
-**仅售 ¥10**（永久使用）
-
-对比同类产品：
-- 某知名AI写作工具：月费 ¥99
-- 某文案生成平台：¥0.1/字
-- **Content Creator Pro**：¥10 买断 ✅
-
 ---
 
 ## 🎯 适用人群
@@ -212,9 +203,8 @@ MIT License © 2024 Content Creator Pro
 
 ## 💬 联系方式
 
-- 邮箱：your.email@example.com
-- 微信：your_wechat_id
-- 公众号：你的公众号名称
+
+- 公众号：指尖知享
 
 ---
 
